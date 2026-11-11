@@ -1,11 +1,11 @@
-# Modèle champion : cancer-sein, version 1
+# Modèle champion : cancer-sein, version 2
 
-Run `logreg-C=3.0` (C = 3.0)
+Run `logreg-C=0.1` (C = 0.1)
 
 | Métrique | Valeur |
 |---|---|
-| accuracy | 0.9737 |
-| f1 | 0.9639 |
+| accuracy | 0.9825 |
+| f1 | 0.9756 |
 | recall | 0.9524 |
 
 ![Matrice de confusion](matrice_confusion.png)
